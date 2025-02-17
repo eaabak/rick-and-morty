@@ -14,7 +14,7 @@ Rick and Morty API'yi kullanarak karakterleri cekildi.
 
 ## Kullanılan Teknolojiler
 
- **Next.js 14**      
+ **Next.js 15 +**      
  **TypeScript**      
  **Tailwind CSS**   
  **ShadCN UI**      
