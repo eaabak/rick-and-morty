@@ -1,11 +1,7 @@
-# 🚀 Rick and Morty Explorer
+# Rick and Morty Explorer
 
-Rick and Morty API'yi kullanarak karakterleri, bölümleri ve filtreleme özelliklerini içeren modern bir Next.js uygulaması.
-
-![Rick and Morty Explorer](https://via.placeholder.com/1200x600)  
-*Uygulamanın bir ekran görüntüsünü ekleyin!*
-
-## 📌 Özellikler
+Rick and Morty API'yi kullanarak karakterleri cekildi.
+## Özellikler
 
 ### Rick and Morty API'den karakterler 
  **Filtreleme sistemi**
